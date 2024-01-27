@@ -1,5 +1,6 @@
 # Sorting Algorithm Visualizer
-![DALL_E_2024-01-27_02 41 54_-_sorting_algorithm_visualizer-removebg-preview (1)](https://github.com/Mohamed-Fiyaz/SortingAlgorithmVisualizer/assets/124451741/6083fa6c-11fb-45bf-a2ff-98d0ef278ee4)
+
+  <img width="1440" alt="Logo" src="https://github.com/Mohamed-Fiyaz/SortingAlgorithmVisualizer/assets/124451741/6083fa6c-11fb-45bf-a2ff-98d0ef278ee4">
 
 This website performs the basic sorting algorithms on the array given by the user.
   <br/>
