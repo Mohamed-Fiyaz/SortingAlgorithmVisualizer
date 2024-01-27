@@ -3,7 +3,6 @@
   <img width="250" alt="Logo" src="https://github.com/Mohamed-Fiyaz/SortingAlgorithmVisualizer/assets/124451741/6083fa6c-11fb-45bf-a2ff-98d0ef278ee4">
 
 This website performs the basic sorting algorithms on the array given by the user.
-  <br/>
 
 ## Features
 
