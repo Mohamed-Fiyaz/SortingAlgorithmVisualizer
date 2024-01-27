@@ -10,6 +10,7 @@ This website performs the basic sorting algorithms on the array given by the use
 - **Input Array:** Users can input an array of numbers that will be used for sorting visualization.
   
   <img width="1440" alt="Screenshot 2024-01-27 at 1 14 13 PM" src="https://github.com/Mohamed-Fiyaz/SortingAlgorithmVisualizer/assets/124451741/20b187ec-0c38-4823-9db9-ba43c2a6e936">
+  
   <br/>
 
 - **Sorting Algorithms:** The application supports various sorting algorithms, including Bubble Sort, Merge Sort, Quick Sort, and Heap Sort.
