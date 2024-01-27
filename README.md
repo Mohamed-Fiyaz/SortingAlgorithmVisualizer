@@ -33,7 +33,7 @@ This website performs the basic sorting algorithms on the array given by the use
 ## How to Use
 <img width="1440" alt="Screenshot 2024-01-27 at 1 13 06 PM" src="https://github.com/Mohamed-Fiyaz/SortingAlgorithmVisualizer/assets/124451741/911950ee-98b5-4bc5-8677-b4bdf956e562">
 
-1. Visit the [Sorting Algorithm Visualizer](insert-live-demo-url-here) website.
+1. Visit the [Sorting Algorithm Visualizer](https://searchingalgorithmvisualizer.onrender.com/) website.
 2. Input an array of numbers in the provided input field.
 3. Choose a sorting algorithm from the available options.
 4. Adjust the speed controls if necessary.
