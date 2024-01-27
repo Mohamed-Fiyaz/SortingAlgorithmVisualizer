@@ -21,7 +21,8 @@ This website performs the basic sorting algorithms on the array given by the use
   <hr>
 
 - **Speed Control:** Adjustable speed controls allow users to control the animation speed of the sorting process.
-  <img width="150" alt="Screenshot 2024-01-27 at 1 17 01 PM" src="https://github.com/Mohamed-Fiyaz/SortingAlgorithmVisualizer/assets/124451741/abc85962-8d88-4f3a-aecd-c3c97af07f7d"> <img width="150" alt="Screenshot 2024-01-27 at 1 17 08 PM" src="https://github.com/Mohamed-Fiyaz/SortingAlgorithmVisualizer/assets/124451741/25dae857-2efc-4c41-b3c5-091360bd25a0">
+  Slow: <img width="150" alt="Screenshot 2024-01-27 at 1 17 01 PM" src="https://github.com/Mohamed-Fiyaz/SortingAlgorithmVisualizer/assets/124451741/abc85962-8d88-4f3a-aecd-c3c97af07f7d">
+  Fast: <img width="150" alt="Screenshot 2024-01-27 at 1 17 08 PM" src="https://github.com/Mohamed-Fiyaz/SortingAlgorithmVisualizer/assets/124451741/25dae857-2efc-4c41-b3c5-091360bd25a0">
   <hr>
 
 - **Responsive Design:** The visualizer is designed to work seamlessly on different screen sizes.
