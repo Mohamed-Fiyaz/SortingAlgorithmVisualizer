@@ -1,0 +1,109 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #3498db;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #3498db;
+}
+
+#controls {
+  margin-top: 20px;
+  text-align: center;
+}
+
+label,
+input,
+select,
+button {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+button {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+#array-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.number-box {
+  display: inline-block;
+  border: 1px solid #3498db;
+  margin: 2px;
+  padding: 10px;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  background-color: #3498db;
+  color: #fff;
+}
+
+.speed-toggle-container {
+  margin-top: 10px;
+}
+
+.speed-toggle {
+  cursor: pointer;
+  padding: 8px 16px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.speed-toggle:hover {
+  background-color: #2980b9;
+}
+
+footer {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  #controls {
+    display: flex;
+    flex-direction: column;
+  }
+
+  label,
+  input,
+  select,
+  button {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+}
