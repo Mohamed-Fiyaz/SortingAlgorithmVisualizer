@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <title>Sorting Algorithm Visualizer</title>
+</head>
+
+<body>
+    <h1>Sorting Algorithm Visualizer</h1>
+
+    <div id="controls">
+        <label for="array-input">Enter Numbers (comma-separated):</label>
+        <input type="text" id="array-input" placeholder="Enter numbers">
+
+        <button id="generate-array-btn">Generate Array</button>
+
+        <label for="algorithm-selector">Select Algorithm:</label>
+        <select id="algorithm-selector">
+            <option value="bubbleSort">Bubble Sort</option>
+            <option value="mergeSort">Merge Sort</option>
+            <option value="quickSort">Quick Sort</option>
+        </select>
+
+        <button id="sort-btn">Sort</button>
+        <button id="reset-btn">Reset Visualization</button>
+        <button id="speed-btn">Current Speed: Slow</button>
+
+        <div id="array-container">
+        </div>
+        <footer>
+            <p>&copy; Mohamed Fiyaz <span id="current-year"></span></p>
+        </footer>
+
+        <script>
+            document.getElementById("current-year").innerText = new Date().getFullYear();
+        </script>
+        <script type="module" src="/js/main.js">
+        </script>
+</body>
